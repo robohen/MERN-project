@@ -15,14 +15,6 @@ const Error = () => {
       </Wrapper>
     );
   }
-  return (
-    <Wrapper>
-      <div>
-        <h1>Something went wrong</h1>
-        <Link to="/dashboard">Back Home</Link>
-      </div>
-    </Wrapper>
-  );
 };
 
 export default Error;
