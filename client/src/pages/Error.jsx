@@ -8,13 +8,19 @@ const Error = () => {
       <Wrapper>
         <div>
           <img src={img} alt="not found" />
-          <h3>Page not found</h3>
-          <p>we can not find the page you are looking for!</p>
-          <Link to="/dashboard">Back home</Link>
+          <h3>Ohh! page not found</h3>
+          <p>we can&#39;t seem to find the page you are looking for</p>
+          <Link to="/dashboard">back home</Link>
         </div>
       </Wrapper>
     );
   }
+  return (
+    <Wrapper>
+      <div>
+        <h3>something went wrong</h3>
+      </div>
+    </Wrapper>
+  );
 };
-
 export default Error;

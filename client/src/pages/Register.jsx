@@ -32,7 +32,7 @@ const Register = () => {
         <p>
           Already a member?
           <Link to="/login" className="member-btn">
-            login
+            Login
           </Link>
         </p>
       </Form>

@@ -3,6 +3,7 @@ import { useDashboardContext } from "../pages/DashboardLayout";
 import { FaTimes } from "react-icons/fa";
 import Logo from "./Logo";
 import NavLinks from "./NavLinks";
+
 const SmallSidebar = () => {
   const { showSidebar, toggleSidebar } = useDashboardContext();
 
