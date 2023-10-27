@@ -23,6 +23,6 @@ router
     .route('/:id')
     .get(validateIdParam, getJob)
     .patch(checkForTestUser, validateJobInput, validateIdParam, updateJob)
-    .delete(checkForTestUser, validateIdParam,deleteJob)
+    .delete(checkForTestUser, validateIdParam, deleteJob)
 
 export default router;
