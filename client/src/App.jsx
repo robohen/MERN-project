@@ -1,6 +1,7 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
+
 import {
   HomeLayout,
   Landing,
@@ -34,7 +35,9 @@ export const checkDefaultTheme = () => {
   document.body.classList.toggle("dark-theme", isDarkTheme);
   return isDarkTheme;
 };
+
 checkDefaultTheme();
+
 const queryClient = new QueryClient({
   defaultOptions: {
     queries: {
@@ -101,10 +104,7 @@ const router = createBrowserRouter([
             loader: editJobLoader(queryClient),
             action: editJobAction(queryClient),
           },
-          {
-            path: "delete-job/:id",
-            action: deleteJobAction(queryClient),
-          },
+          { path: "delete-job/:id", action: deleteJobAction(queryClient) },
         ],
       },
     ],
@@ -113,11 +113,10 @@ const router = createBrowserRouter([
 
 const App = () => {
   return (
-    <QueryClientProvider>
+    <QueryClientProvider client={queryClient}>
       <RouterProvider router={router} />
       <ReactQueryDevtools initialIsOpen={false} />
     </QueryClientProvider>
   );
 };
-
 export default App;

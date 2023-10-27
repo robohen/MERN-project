@@ -5,11 +5,31 @@ import { ImProfile } from "react-icons/im";
 import { MdAdminPanelSettings } from "react-icons/md";
 
 const links = [
-  { text: "Add job", path: ".", icon: <FaWpforms /> },
-  { text: "All jobs", path: "all-jobs", icon: <MdQueryStats /> },
-  { text: "Stats", path: "stats", icon: <IoBarChartSharp /> },
-  { text: "Profile", path: "profile", icon: <ImProfile /> },
-  { text: "Admin", path: "admin", icon: <MdAdminPanelSettings /> },
+  {
+    text: "add job",
+    path: ".",
+    icon: <FaWpforms />,
+  },
+  {
+    text: "all jobs",
+    path: "all-jobs",
+    icon: <MdQueryStats />,
+  },
+  {
+    text: "stats",
+    path: "stats",
+    icon: <IoBarChartSharp />,
+  },
+  {
+    text: "profile",
+    path: "profile",
+    icon: <ImProfile />,
+  },
+  {
+    text: "admin",
+    path: "admin",
+    icon: <MdAdminPanelSettings />,
+  },
 ];
 
 export default links;
