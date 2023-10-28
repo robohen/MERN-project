@@ -5,6 +5,7 @@ import JobInfo from "./JobInfo";
 import day from "dayjs";
 import advancedFormat from "dayjs/plugin/advancedFormat";
 day.extend(advancedFormat);
+
 const Job = ({
   _id,
   position,
@@ -15,7 +16,6 @@ const Job = ({
   jobStatus,
 }) => {
   const date = day(createdAt).format("MMM Do, YYYY");
-
   return (
     <Wrapper>
       <header>
@@ -36,7 +36,7 @@ const Job = ({
           <Link to={`../edit-job/${_id}`} className="btn edit-btn">
             Edit
           </Link>
-          <Form method="post" action={`../delete=job/${_id}`}>
+          <Form method="post" action={`../delete-job/${_id}`}>
             <button type="submit" className="btn delete-btn">
               Delete
             </button>
@@ -46,5 +46,4 @@ const Job = ({
     </Wrapper>
   );
 };
-
 export default Job;

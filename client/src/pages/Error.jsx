@@ -3,6 +3,7 @@ import Wrapper from "../assets/wrappers/ErrorPage";
 import img from "../assets/images/not-found.svg";
 const Error = () => {
   const error = useRouteError();
+  console.log(error);
   if (error.status === 404) {
     return (
       <Wrapper>
@@ -18,7 +19,7 @@ const Error = () => {
   return (
     <Wrapper>
       <div>
-        <h3>something went wrong</h3>
+        <h3>Something went wrong</h3>
       </div>
     </Wrapper>
   );

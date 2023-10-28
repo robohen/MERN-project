@@ -14,7 +14,7 @@ const Navbar = () => {
         </button>
         <div>
           <Logo />
-          <h4 className="logo-text">Dashboard</h4>
+          <h4 className="logo-text">dashboard</h4>
         </div>
         <div className="btn-container">
           <ThemeToggle />
@@ -24,5 +24,4 @@ const Navbar = () => {
     </Wrapper>
   );
 };
-
 export default Navbar;

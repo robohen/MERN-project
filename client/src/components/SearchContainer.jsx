@@ -32,12 +32,12 @@ const SearchContainer = () => {
               submit(form);
             })}
           />
+
           <FormRowSelect
             labelText="job status"
             name="jobStatus"
-            defaultValue={jobStatus}
-            type="jobS"
             list={["all", ...Object.values(JOB_STATUS)]}
+            defaultValue={jobStatus}
             onChange={(e) => {
               submit(e.currentTarget.form);
             }}
@@ -45,8 +45,8 @@ const SearchContainer = () => {
           <FormRowSelect
             labelText="job type"
             name="jobType"
-            defaultValue={jobType}
             list={["all", ...Object.values(JOB_TYPE)]}
+            defaultValue={jobType}
             onChange={(e) => {
               submit(e.currentTarget.form);
             }}
@@ -62,12 +62,9 @@ const SearchContainer = () => {
           <Link to="/dashboard/all-jobs" className="btn form-btn delete-btn">
             Reset Search Values
           </Link>
-          {/* TEMP WILL CHANGE LATER */}
-          <SubmitBtn formBtn />
         </div>
       </Form>
     </Wrapper>
   );
 };
-
 export default SearchContainer;

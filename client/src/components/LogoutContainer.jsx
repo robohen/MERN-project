@@ -6,6 +6,7 @@ import { useDashboardContext } from "../pages/DashboardLayout";
 const LogoutContainer = () => {
   const [showLogout, setShowLogout] = useState(false);
   const { user, logoutUser } = useDashboardContext();
+
   return (
     <Wrapper>
       <button
@@ -29,5 +30,4 @@ const LogoutContainer = () => {
     </Wrapper>
   );
 };
-
 export default LogoutContainer;

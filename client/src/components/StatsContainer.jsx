@@ -33,5 +33,4 @@ const StatsContainer = ({ defaultStats }) => {
     </Wrapper>
   );
 };
-
 export default StatsContainer;

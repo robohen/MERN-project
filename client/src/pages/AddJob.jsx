@@ -24,6 +24,7 @@ export const action =
 
 const AddJob = () => {
   const { user } = useOutletContext();
+
   return (
     <Wrapper>
       <Form method="post" className="form">
@@ -33,8 +34,8 @@ const AddJob = () => {
           <FormRow type="text" name="company" />
           <FormRow
             type="text"
-            name="jobLocation"
             labelText="job location"
+            name="jobLocation"
             defaultValue={user.location}
           />
           <FormRowSelect
@@ -55,5 +56,4 @@ const AddJob = () => {
     </Wrapper>
   );
 };
-
 export default AddJob;

@@ -1,7 +1,7 @@
 export const JOB_STATUS = {
     PENDING: 'pending',
     INTERVIEW:'interview',
-    DECLINED: 'declined'
+    DECLINED: 'declined',
 };
 
 export const JOB_TYPE = {
@@ -14,6 +14,6 @@ export const JOB_TYPE = {
 export const JOB_SORT_BY ={
     NEWEST_FIRST: 'newest',
     OLDEST_FIRST: 'oldest',
-    ASCENDING: 'A-Z',
-    DESCENDING: 'Z-A'
+    ASCENDING: 'a-z',
+    DESCENDING: 'z-a',
 }

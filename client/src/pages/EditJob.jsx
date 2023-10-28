@@ -47,6 +47,7 @@ export const action =
 
 const EditJob = () => {
   const id = useLoaderData();
+
   const {
     data: { job },
   } = useQuery(singleJobQuery(id));
@@ -82,5 +83,4 @@ const EditJob = () => {
     </Wrapper>
   );
 };
-
 export default EditJob;

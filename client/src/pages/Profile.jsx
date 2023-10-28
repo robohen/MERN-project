@@ -1,6 +1,6 @@
 import { FormRow, SubmitBtn } from "../components";
 import Wrapper from "../assets/wrappers/DashboardFormPage";
-import { useOutletContext } from "react-router-dom";
+import { useOutletContext, redirect } from "react-router-dom";
 import { Form } from "react-router-dom";
 import customFetch from "../utils/customFetch";
 import { toast } from "react-toastify";
@@ -27,7 +27,9 @@ export const action =
 
 const Profile = () => {
   const { user } = useOutletContext();
+
   const { name, lastName, email, location } = user;
+
   return (
     <Wrapper>
       <Form method="post" className="form" encType="multipart/form-data">
@@ -35,7 +37,7 @@ const Profile = () => {
         <div className="form-center">
           <div className="form-row">
             <label htmlFor="avatar" className="form-label">
-              Select and image file(max 0.5MB)
+              Select an image file (max 0.5 MB)
             </label>
             <input
               type="file"
@@ -45,7 +47,6 @@ const Profile = () => {
               accept="image/*"
             />
           </div>
-          {/*file input */}
           <FormRow type="text" name="name" defaultValue={name} />
           <FormRow
             type="text"
@@ -55,11 +56,10 @@ const Profile = () => {
           />
           <FormRow type="email" name="email" defaultValue={email} />
           <FormRow type="text" name="location" defaultValue={location} />
-          <SubmitBtn />
+          <SubmitBtn formBtn />
         </div>
       </Form>
     </Wrapper>
   );
 };
-
 export default Profile;
