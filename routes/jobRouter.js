@@ -18,7 +18,6 @@ router
 
 router.route('./stats').get(showStats);
 
-
 router
     .route('/:id')
     .get(validateIdParam, getJob)

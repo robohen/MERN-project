@@ -31,7 +31,7 @@
     "position": "Research Assistant II",
     "jobLocation": "Wanbu",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-04-03T18:51:55Z"
   }, {
     "company": "Jayo",
@@ -59,7 +59,7 @@
     "position": "Chemical Engineer",
     "jobLocation": "Bergen",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-06-21T07:08:45Z"
   }, {
     "company": "Youspan",
@@ -73,21 +73,21 @@
     "position": "Editor",
     "jobLocation": "Yaojiaji",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-08-08T20:10:25Z"
   }, {
     "company": "Yodoo",
     "position": "Registered Nurse",
     "jobLocation": "Longquan",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-10-22T06:55:46Z"
   }, {
     "company": "Jaxworks",
     "position": "Graphic Designer",
     "jobLocation": "Storozhynets’",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-10-11T02:33:29Z"
   }, {
     "company": "Ainyx",
@@ -122,21 +122,21 @@
     "position": "Dental Hygienist",
     "jobLocation": "Alue Glumpang",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2022-12-06T08:30:27Z"
   }, {
     "company": "Mymm",
     "position": "Accountant II",
     "jobLocation": "Pontevedra",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-03-08T10:00:21Z"
   }, {
     "company": "Livepath",
     "position": "Marketing Assistant",
     "jobLocation": "Yeni Suraxanı",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2022-12-31T13:51:26Z"
   }, {
     "company": "Geba",
@@ -150,14 +150,14 @@
     "position": "Clinical Specialist",
     "jobLocation": "Rybnoye",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-08-31T23:35:05Z"
   }, {
     "company": "Buzzshare",
     "position": "Web Developer IV",
     "jobLocation": "Kolsko",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-06-19T11:05:48Z"
   }, {
     "company": "Bubblemix",
@@ -171,21 +171,21 @@
     "position": "Editor",
     "jobLocation": "Camalote",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2022-11-17T15:41:36Z"
   }, {
     "company": "Eazzy",
     "position": "Associate Professor",
     "jobLocation": "Datong",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-05-18T19:34:40Z"
   }, {
     "company": "Twitterlist",
     "position": "Marketing Manager",
     "jobLocation": "Kołbaskowo",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-05-12T19:33:17Z"
   }, {
     "company": "Izio",
@@ -199,7 +199,7 @@
     "position": "Payment Adjustment Coordinator",
     "jobLocation": "Cukalat",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-08-29T15:12:17Z"
   }, {
     "company": "Skyble",
@@ -220,14 +220,14 @@
     "position": "Social Worker",
     "jobLocation": "Ḩammām Damt",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-10-18T11:06:04Z"
   }, {
     "company": "Demizz",
     "position": "Software Consultant",
     "jobLocation": "Santo Amaro da Imperatriz",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-09-06T17:15:31Z"
   }, {
     "company": "Cogibox",
@@ -255,28 +255,28 @@
     "position": "Recruiting Manager",
     "jobLocation": "Zamora",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-03-09T18:19:18Z"
   }, {
     "company": "Fanoodle",
     "position": "Senior Quality Engineer",
     "jobLocation": "Syevyerodonets’k",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-10-02T00:22:08Z"
   }, {
     "company": "Leexo",
     "position": "VP Accounting",
     "jobLocation": "Korsakovo",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-02-01T15:49:20Z"
   }, {
     "company": "Kwinu",
     "position": "Teacher",
     "jobLocation": "Ijuí",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-02-12T23:35:37Z"
   }, {
     "company": "Blogspan",
@@ -290,42 +290,42 @@
     "position": "Office Assistant IV",
     "jobLocation": "Illéla",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-05-18T19:07:46Z"
   }, {
     "company": "Camido",
     "position": "Software Test Engineer III",
     "jobLocation": "Shkodër",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-05-07T20:44:58Z"
   }, {
     "company": "Tagtune",
     "position": "Teacher",
     "jobLocation": "Pasirtundun",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2022-12-23T23:00:16Z"
   }, {
     "company": "Zoovu",
     "position": "VP Marketing",
     "jobLocation": "Tongshanxiang",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-05-22T06:21:07Z"
   }, {
     "company": "Yotz",
     "position": "Nurse",
     "jobLocation": "Nambalan",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-05-01T10:49:14Z"
   }, {
     "company": "Einti",
     "position": "Desktop Support Technician",
     "jobLocation": "Jingjiao",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-04-01T08:16:22Z"
   }, {
     "company": "Snaptags",
@@ -339,14 +339,14 @@
     "position": "Geologist III",
     "jobLocation": "Knivsta",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-01-03T12:02:24Z"
   }, {
     "company": "Lajo",
     "position": "Information Systems Manager",
     "jobLocation": "Miribanteng",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2022-12-01T20:18:48Z"
   }, {
     "company": "Pixope",
@@ -367,21 +367,21 @@
     "position": "Product Engineer",
     "jobLocation": "Huyuan",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-06-24T08:52:03Z"
   }, {
     "company": "Devbug",
     "position": "Staff Accountant I",
     "jobLocation": "Mancilang",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-06-15T11:02:23Z"
   }, {
     "company": "Meedoo",
     "position": "Account Representative III",
     "jobLocation": "Arroyo Naranjo",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-06-12T08:52:19Z"
   }, {
     "company": "Avamba",
@@ -402,21 +402,21 @@
     "position": "Executive Secretary",
     "jobLocation": "Pau",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-02-11T15:47:15Z"
   }, {
     "company": "Dablist",
     "position": "Dental Hygienist",
     "jobLocation": "Murillo",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2022-10-29T02:39:40Z"
   }, {
     "company": "Jabbersphere",
     "position": "Paralegal",
     "jobLocation": "Jiexiu",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-01-02T02:21:56Z"
   }, {
     "company": "Yotz",
@@ -437,7 +437,7 @@
     "position": "Software Engineer IV",
     "jobLocation": "Yajin",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-05-11T10:01:56Z"
   }, {
     "company": "Camido",
@@ -451,14 +451,14 @@
     "position": "Administrative Assistant I",
     "jobLocation": "Xuancheng",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2022-11-04T13:14:13Z"
   }, {
     "company": "Aimbo",
     "position": "VP Marketing",
     "jobLocation": "Port Moody",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2022-12-06T20:34:45Z"
   }, {
     "company": "Feedfire",
@@ -479,7 +479,7 @@
     "position": "Actuary",
     "jobLocation": "Deneysville",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-09-29T21:24:47Z"
   }, {
     "company": "Brainlounge",
@@ -514,21 +514,21 @@
     "position": "Senior Cost Accountant",
     "jobLocation": "Al Jarrāḩī",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-01-19T02:16:25Z"
   }, {
     "company": "Dazzlesphere",
     "position": "Community Outreach Specialist",
     "jobLocation": "Elaiochóri",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-06-13T15:55:23Z"
   }, {
     "company": "Devpulse",
     "position": "Junior Executive",
     "jobLocation": "Till",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-08-02T15:39:38Z"
   }, {
     "company": "Skyvu",
@@ -556,14 +556,14 @@
     "position": "Registered Nurse",
     "jobLocation": "Luoshan",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-03-22T07:07:32Z"
   }, {
     "company": "Blogtag",
     "position": "Speech Pathologist",
     "jobLocation": "São José",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-09-19T04:51:53Z"
   }, {
     "company": "Kazu",
@@ -591,7 +591,7 @@
     "position": "Civil Engineer",
     "jobLocation": "Ulaan Khat",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-03-22T20:25:04Z"
   }, {
     "company": "Zava",
@@ -605,7 +605,7 @@
     "position": "Actuary",
     "jobLocation": "Jianzhatan",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-04-23T07:08:19Z"
   }, {
     "company": "Trupe",
@@ -626,14 +626,14 @@
     "position": "Recruiter",
     "jobLocation": "Colorado Springs",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-02-06T01:12:13Z"
   }, {
     "company": "Feedfire",
     "position": "Structural Engineer",
     "jobLocation": "Shebekino",
     "jobStatus": "interview",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-09-30T12:53:00Z"
   }, {
     "company": "Fadeo",
@@ -661,14 +661,14 @@
     "position": "Assistant Professor",
     "jobLocation": "Philadelphia",
     "jobStatus": "declined",
-    "jobType": "full-time.part-time",
+    "jobType": "full-time",
     "createdAt": "2023-01-15T12:21:29Z"
   }, {
     "company": "Fadeo",
     "position": "Research Assistant I",
     "jobLocation": "Pelem",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-01-29T02:03:45Z"
   }, {
     "company": "Livefish",
@@ -682,7 +682,7 @@
     "position": "Software Test Engineer I",
     "jobLocation": "Ar Ramthā",
     "jobStatus": "pending",
-    "jobType": "full-time.part-time",
+    "jobType": "part-time",
     "createdAt": "2023-01-11T07:50:20Z"
   }, {
     "company": "Babblestorm",
